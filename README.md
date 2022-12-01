@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning AWS.
 - 💞️ I’m looking to collaborate on opersource projects.
 - 📫 How to reach me ...
+
         - Email- samarguptag@gmail.com
-        - Linkedin - linkedin.com/in/samarpitgupta
+        - Linkedin - https://www.linkedin.com/in/samarpitgupta
         - Twitter - https://twitter.com/samarguptag
 
 <!---
