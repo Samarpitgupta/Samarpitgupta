@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samarpit Gupta. Currently working at Aspire Systems as a Senior Software Engineer.
 - 👀 I’m interested in backend development.
-- 🌱 I’m currently learning AWS.
+- 🌱 I’m currently learning Cloud Technologies.
 - 💞️ I’m looking to collaborate on opersource projects.
 - 📫 How to reach me ...
 
