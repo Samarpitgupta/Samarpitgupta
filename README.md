@@ -4,12 +4,12 @@
 - 💞️ I’m looking to collaborate on opersource projects.
 - 👨🏽‍💻 Coding Profiles - 
  
-        HackerRank : https://www.hackerrank.com/samarpitgupta  
-        LeetCode : https://leetcode.com/samargupta
-        InterviewBit : https://www.interviewbit.com/profile/samargupta
-        CodeChef : https://www.codechef.com/users/samargupta
-        Codeforces : https://codeforces.com/profile/samargupta
-        SPOJ : https://www.spoj.com/status/samargupta/
+        - HackerRank : https://www.hackerrank.com/samarpitgupta  
+        - LeetCode : https://leetcode.com/samargupta
+        - InterviewBit : https://www.interviewbit.com/profile/samargupta
+        - CodeChef : https://www.codechef.com/users/samargupta
+        - Codeforces : https://codeforces.com/profile/samargupta
+        - SPOJ : https://www.spoj.com/status/samargupta/
 - 📫 How to reach me ...
 
         - Email : samarguptag@gmail.com
