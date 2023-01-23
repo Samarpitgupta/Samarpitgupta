@@ -4,17 +4,17 @@
 - 💞️ I’m looking to collaborate on opersource projects.
 - 👨🏽‍💻 Coding Profiles - 
  
-        - HackerRank : https://www.hackerrank.com/samarpitgupta  
-        - LeetCode : https://leetcode.com/samargupta
-        - InterviewBit : https://www.interviewbit.com/profile/samargupta
-        - CodeChef : https://www.codechef.com/users/samargupta
-        - Codeforces : https://codeforces.com/profile/samargupta
-        - SPOJ : https://www.spoj.com/status/samargupta/
+        - HackerRank : [https://www.hackerrank.com/samarpitgupta](https://www.hackerrank.com/samarpitgupta)  
+        - LeetCode : [https://leetcode.com/samargupta](https://leetcode.com/samargupta)
+        - InterviewBit : [https://www.interviewbit.com/profile/samargupta](https://www.interviewbit.com/profile/samargupta)
+        - CodeChef : [https://www.codechef.com/users/samargupta](https://www.codechef.com/users/samargupta)
+        - Codeforces : [https://codeforces.com/profile/samargupta](https://codeforces.com/profile/samargupta)
+        - SPOJ : [https://www.spoj.com/status/samargupta](https://www.spoj.com/status/samargupta/)
 - 📫 How to reach me ...
 
         - Email : samarguptag@gmail.com
-        - Linkedin : https://www.linkedin.com/in/samarpitgupta
-        - Twitter : https://twitter.com/samarguptag
+        - Linkedin : [https://www.linkedin.com/in/samarpitgupta](https://www.linkedin.com/in/samarpitgupta)
+        - Twitter : [https://twitter.com/samarguptag](https://twitter.com/samarguptag)
 
 <!---
 Samarpitgupta/Samarpitgupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
