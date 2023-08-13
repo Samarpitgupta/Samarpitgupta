@@ -13,7 +13,7 @@
 - HashiCorp Vault
 
 💡 Highlights:
-- Awarded for technical expertise and commitment to delivering high-quality work.
+- Awarded for technical expertise, commitment to delivering high-quality work, and taking ownership of responsibilities.
 - Led ownership of critical services and features from end to end.
 - Experience in building user interfaces and seamlessly integrating them with back-end services using React.
 - Expertise in using HashiCorp Vault for secure secret management and data protection.
