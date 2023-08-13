@@ -16,6 +16,8 @@
 - Awarded for technical expertise and commitment to delivering high-quality work.
 - Led ownership of critical services and features from end to end.
 - Experience in building user interfaces and seamlessly integrating them with back-end services using React.
+- Expertise in using HashiCorp Vault for secure secret management and data protection.
+- Proven ability to manage containerized applications with Docker, facilitating streamlined deployment workflows.
 
 🌱 Lifelong Learner:
 I'm committed to lifelong learning, staying up-to-date with the latest advancements in software development, and continuously expanding my skillset. This allows me to tackle new challenges and innovate effectively.
