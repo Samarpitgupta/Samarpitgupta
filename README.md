@@ -36,8 +36,6 @@ Let's connect and explore how we can collaborate on exciting projects together!
 - Email : samarguptag@gmail.com
 - Linkedin :  https://www.linkedin.com/in/samarpitgupta
 - Twitter :  https://twitter.com/samarguptag
-![image](https://github.com/Samarpitgupta/Samarpitgupta/assets/15109967/ec8028fc-d3e9-40d6-a4c9-9bea114406a8)
-
 
 <!---
 Samarpitgupta/Samarpitgupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
