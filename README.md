@@ -1,13 +1,13 @@
 👋 Hello! I'm @Samarpit Gupta, a Java developer with over 4+ years of experience in crafting robust software solutions. I thrive on writing clean, maintainable, and well-tested code that powers efficient applications.
 
 🔧 Technical Skills:
-- Java 8+
+- Java 11
 - Spring Boot
 - JPA/Hibernate
 - Microservices
 - MySQL
 - Elasticsearch
-- React (front-end development)
+- React
 - Docker
 - Maven
 - HashiCorp Vault
